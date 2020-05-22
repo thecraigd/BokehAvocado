@@ -39,6 +39,6 @@ Avocado price data sourced from [Kaggle](https://www.kaggle.com/neuromusic/avoca
 
 
 ## Contact
-All feedback is warmly received. Craig Dickson can be contacted via [Twitter](https://twitter.com/craigdoesdata) as @craigdoesdata
+All feedback is warmly received. Craig Dickson can be contacted via [Twitter](https://twitter.com/craigdoesdata) as @craigdoesdata.
 Visit www.craigdoesdata.de or follow me here on GitHub to see my other projects.
 
