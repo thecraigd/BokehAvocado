@@ -38,8 +38,7 @@ Avocado price data sourced from [Kaggle](https://www.kaggle.com/neuromusic/avoca
 * [Map](https://github.com/thecraigd/BokehAvocado/blob/master/Map.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thecraigd/BokehAvocado/master)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/thecraigd/BokehAvocado/master
+
 
 
 ## Contact
