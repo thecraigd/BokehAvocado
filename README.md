@@ -1,5 +1,5 @@
 # Using Bokeh to create an interactive heatmap visualisation of avocado prices
-Data Analysis project mapping price data for avocados onto a map of the USA.
+Data visualisation project mapping price data for avocados onto a map of the USA.
 
 This is a follow-up to this [blog post](https://towardsdatascience.com/mapping-avocado-prices-in-python-with-geopandas-geopy-and-matplotlib-c7e0ef08bc26) on [Towards Data Science](https://towardsdatascience.com/mapping-avocado-prices-in-python-with-geopandas-geopy-and-matplotlib-c7e0ef08bc26), the code and data for which are stored in [this repository](https://github.com/thecraigd/Avocado-Prices). 
 
