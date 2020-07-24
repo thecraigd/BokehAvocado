@@ -1,3 +1,9 @@
+[![CraigDoesData][logo]][link]
+
+[logo]: https://www.craigdoesdata.de/img/logo/logo.png
+[link]: https://www.craigdoesdata.de/
+
+
 # Using Bokeh to create an interactive heatmap visualisation of avocado prices
 Data visualisation project mapping price data for avocados onto a map of the USA.
 
