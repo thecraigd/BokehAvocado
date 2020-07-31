@@ -4,7 +4,7 @@
 [link]: https://www.craigdoesdata.de/
 
 
-# Using Bokeh to create an interactive heatmap visualisation of avocado prices
+# Using Bokeh to create an interactive visualisation of avocado prices
 Data visualisation project mapping price data for avocados onto a map of the USA.
 
 There is an accompanying [article]((https://towardsdatascience.com/creating-an-interactive-map-in-python-using-bokeh-and-pandas-f84414536a06)) on [Towards Data Science](https://towardsdatascience.com/) to walk you through this visualisation [here](https://towardsdatascience.com/creating-an-interactive-map-in-python-using-bokeh-and-pandas-f84414536a06).
