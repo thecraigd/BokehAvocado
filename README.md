@@ -7,9 +7,9 @@
 # Using Bokeh to create an interactive heatmap visualisation of avocado prices
 Data visualisation project mapping price data for avocados onto a map of the USA.
 
-There is an accompanying article on [Towards Data Science](https://towardsdatascience.com/creating-an-interactive-map-in-python-using-bokeh-and-pandas-f84414536a06) to walk you through this visualisation [here](https://towardsdatascience.com/creating-an-interactive-map-in-python-using-bokeh-and-pandas-f84414536a06).
+There is an accompanying [article]((https://towardsdatascience.com/creating-an-interactive-map-in-python-using-bokeh-and-pandas-f84414536a06)) on [Towards Data Science](https://towardsdatascience.com/) to walk you through this visualisation [here](https://towardsdatascience.com/creating-an-interactive-map-in-python-using-bokeh-and-pandas-f84414536a06).
 
-This is a follow-up to this [blog post](https://towardsdatascience.com/mapping-avocado-prices-in-python-with-geopandas-geopy-and-matplotlib-c7e0ef08bc26) on [Towards Data Science](https://towardsdatascience.com/mapping-avocado-prices-in-python-with-geopandas-geopy-and-matplotlib-c7e0ef08bc26), the code and data for which are stored in [this repository](https://github.com/thecraigd/Avocado-Prices). 
+This is a follow-up to this [article](https://towardsdatascience.com/mapping-avocado-prices-in-python-with-geopandas-geopy-and-matplotlib-c7e0ef08bc26) on [Towards Data Science](https://towardsdatascience.com/mapping-avocado-prices-in-python-with-geopandas-geopy-and-matplotlib-c7e0ef08bc26), the code and data for which are stored in [this repository](https://github.com/thecraigd/Avocado-Prices). 
 
 My objective here was to produce an interactive version of the static visualisation I produced previously. I used [Bokeh](https://docs.bokeh.org/en/latest/index.html) to do that, and produced [this visualisation](http://www.craigdoesdata.de/blog/avocadobokeh.html) using the code presented here.
 
