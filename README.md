@@ -39,17 +39,17 @@ Avocado price data sourced from [Kaggle](https://www.kaggle.com/neuromusic/avoca
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is kept in the CSV file in the root folder of this repo.
-3. All code is contained within the [Jupyter Notebook](https://github.com/thecraigd/BokehAvocado/blob/master/Map.ipynb) for this project, stored in the root folder as Map.ipynb
+3. All code is contained within the [Jupyter Notebook](https://github.com/thecraigd/BokehAvocado/blob/master/bokeh_avocado.ipynb) for this project, stored in the root folder as bokeh_avocado.ipynb
 
 
 ## Featured Notebooks
-* [Map](https://github.com/thecraigd/BokehAvocado/blob/master/Map.ipynb)
+* [bokeh_avocado.ipynb](https://github.com/thecraigd/BokehAvocado/blob/master/bokeh_avocado.ipynb)
 
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thecraigd/BokehAvocado/master)
 
 
 
 ## Contact
-All feedback is warmly received. Craig Dickson can be contacted via his website [craigdoesdata.de](https://www.craigdoesdata.de/contact.html).
+All feedback is warmly received. Craig Dickson can be contacted via [craigdoesdata.de](https://www.craigdoesdata.de/contact.html).
 Visit www.craigdoesdata.de or follow me here on GitHub to see my other projects.
 
